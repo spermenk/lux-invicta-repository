@@ -1,0 +1,14 @@
+religion_nature = {
+	buttons = { nature }
+	
+	
+	religion_default = {
+		picture = GFX_religion_feature_peaceful
+		effect = {
+			
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+}
